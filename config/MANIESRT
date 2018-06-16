@@ -1,0 +1,5 @@
+Manifest-Version: 0.9 
+Created-By: Kevin Jiang
+Main-Class: login.LoginDialog
+Class-Path: . lib/mysql-connector-java-8.0.11.jar lib/miglayout15-swing.jar  
+
